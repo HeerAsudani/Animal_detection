@@ -3,6 +3,18 @@
 
 This project is for pet management and care   department, supporting animal welfare,Support animal shelters in managing and categorizing animals effectively.
 
+
+### Demo 
+
+
+
+
+https://github.com/HeerAsudani/Animal_detection/assets/148949337/b9e140b1-5d5d-4722-b70d-82be7eae03f3
+
+
+
+### Video Link :- https://youtu.be/Ckhcfl3SygE
+
 ## Aims and objectives:
 
 The broader aims of the project are:
